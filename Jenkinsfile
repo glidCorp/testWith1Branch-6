@@ -1,2 +1,2 @@
-node {		echo 'Hello Worl33d'
+node {		echo 'Hello Worl33d '
 	}
